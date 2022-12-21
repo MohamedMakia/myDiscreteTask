@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\project1PrimeNumbers\bin\Debug\net6.0\project1PrimeNumbers.exe
+C:\Users\moham\source\repos\project1PrimeNumbers\bin\Debug\net6.0\project1PrimeNumbers.deps.json
+C:\Users\moham\source\repos\project1PrimeNumbers\bin\Debug\net6.0\project1PrimeNumbers.runtimeconfig.json
+C:\Users\moham\source\repos\project1PrimeNumbers\bin\Debug\net6.0\project1PrimeNumbers.dll
+C:\Users\moham\source\repos\project1PrimeNumbers\bin\Debug\net6.0\project1PrimeNumbers.pdb
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.AssemblyInfo.cs
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.dll
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\refint\project1PrimeNumbers.dll
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.pdb
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\project1PrimeNumbers.genruntimeconfig.cache
+C:\Users\moham\source\repos\project1PrimeNumbers\obj\Debug\net6.0\ref\project1PrimeNumbers.dll
